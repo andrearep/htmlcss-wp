@@ -126,17 +126,21 @@ body{
 
 /* font style */
 .side_content p, .main_content p{
-    color:rgb(145, 143, 143);
-    font-size: 18px;
+    color:rgb(170, 169, 169);
+    font-size: 20px;
+    line-height: 22px;
 }
 .side_content h4, .main_content h4{
-    font-weight: 600;
+    font-weight: 500;
+    font-size: 19px;
+    color: rgb(90, 89, 89);
 }
 
 /* footer */
 footer{
     width: 200px;
-    margin: auto;
+    margin: 50px auto;
+    
 }
 
 .credits{
